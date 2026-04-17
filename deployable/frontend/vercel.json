@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/chat",
-      "destination": "https://your-render-backend-url.onrender.com/chat"
+      "destination": "https://team-2-q2ma.onrender.com/chat"
     }
   ]
 }
